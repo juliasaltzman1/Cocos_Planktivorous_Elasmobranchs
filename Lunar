@@ -1,3 +1,2 @@
 FINAL_Cocos_Dataset_marblerays$LunarDistance = lunar.distance(as.Date(FINAL_Cocos_Dataset_marblerays$DateNEW))
-
 FINAL_Cocos_Dataset_marblerays$LunarIlluminationMean = lunar.illumination.mean(as.Date(FINAL_Cocos_Dataset_marblerays$DateNEW))
