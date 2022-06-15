@@ -1,2 +1,4 @@
 # Cocos
-This is the code for the preliminary data visualization, data cleaning, data integrations, and model simulation for the Cocos Project. The dataset used for this study is property of Undersea Hunter, and is used with their permission, therefore the data is not available online. 
+All code from models, data cleaning, and data integration is available here. The dataset used for this study is property of Undersea Hunter, and is used with their permission, therefore the data is not available online. 
+
+If you have any questions you can reach out to: Julia.Saltzman@unh.edu or Easton.White@unh.edu 
