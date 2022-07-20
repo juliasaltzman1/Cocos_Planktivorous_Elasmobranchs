@@ -28,4 +28,4 @@ MOBG = glmmTMB( MobulaRays ~ SIN_TIME + COS_TIME + ONI + SST + SALINITY + CHLA +
 
 MOBH = glmmTMB( MobulaRays ~ SIN_TIME + COS_TIME + ONI + Temperature + SST + SALINITY + CHLA + LunarDistance + LunarIlluminationMean + LunarPhase8 + Year.y + StudyJulianDate + (1|SiteCode) + (1|DiverCode), data = Data2020, ziformula = ~1, family=poisson ) 
 
-AICtab(MOBA, MOBB, MOBC, MOBD, MOBE, MOBF, MOBG, MOBH)
+aictab(MOBA, MOBB, MOBC, MOBD, MOBE, MOBF, MOBG, MOBH)
