@@ -1,5 +1,5 @@
 #Created by: Julia Saltzman 
-#Last edited: 20-July
+#Last edited: 20-July-2022
 
 
 # This is the code for the ZINB Models and AIC for Manta Rays and Mobula Rays. Rather than a drop one approach for AIC, we selected biologically sensible models. 
